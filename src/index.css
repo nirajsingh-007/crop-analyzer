@@ -1,0 +1,7 @@
+@import "leaflet/dist/leaflet.css";
+@import "leaflet-draw/dist/leaflet.draw.css";
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}

@@ -1,0 +1,9 @@
+{
+  "wheat": { "ndvi_min": 0.4, "ndvi_max": 0.75 },
+  "maize": { "ndvi_min": 0.5, "ndvi_max": 0.8 },
+  "rice": { "ndvi_min": 0.45, "ndvi_max": 0.85 },
+  "cotton": { "ndvi_min": 0.35, "ndvi_max": 0.7 },
+  "sugarcane": { "ndvi_min": 0.55, "ndvi_max": 0.85 },
+  "soybean": { "ndvi_min": 0.5, "ndvi_max": 0.85 },
+  "groundnut": { "ndvi_min": 0.45, "ndvi_max": 0.75 }
+}
